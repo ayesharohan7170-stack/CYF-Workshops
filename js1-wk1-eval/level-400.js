@@ -10,7 +10,7 @@ confession = confession.replaceAll(secret,'x'.repeat(secret.length));
 // a) How many function calls are there in this file?
 // Two
 // b) Explain what the expression confession.replaceAll(secret,'x'.repeat(secret.length)); is doing
-
+// It's replacing with cake and x is replacing all the cake numbers with x.
 // c) How many inputs do we pass to replaceAll when we call it? How can you tell?
 // d) How any inputs do we pass to repeat when we call it?  How can you tell?
 
